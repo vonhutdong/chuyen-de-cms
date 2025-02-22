@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Day la week1 thuoc branch week1  va main
+=======
+<<<<<<< Updated upstream
+Day la week1 thuoc branch week1
+=======
+Day la week1 thuoc branch week1 va week1
+>>>>>>> Stashed changes
+>>>>>>> Week1
